@@ -1,0 +1,6 @@
+{
+  "name": "Sonrisas Brillantes - Cuidado Dental y Recordatorios",
+  "description": "Sistema de higiene bucal diaria, recordatorios personalizados de cepillado y gestión de tratamientos dentales con notificaciones en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
